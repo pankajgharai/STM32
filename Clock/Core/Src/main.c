@@ -23,6 +23,7 @@
 /* USER CODE BEGIN Includes */
 /* User Commit on Desktop */
 /* Edited on Github Online */
+/* Edited on mobile app */
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
